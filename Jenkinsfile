@@ -15,7 +15,7 @@ node {
        }
 	   
       stage('Sonar') {
-                    //add stage sonar
+                    //add stage sonarqube
                    // sh 'mvn sonar:sonar'
                 }
 	
